@@ -1,0 +1,121 @@
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\BUS\bin\Debug\BUS.dll
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\BUS\bin\Debug\BUS.pdb
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DAO.dll
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DTO.dll
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DAO.pdb
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DTO.pdb
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.dll
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.pdb
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\BUS.dll
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\BUS.pdb
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DAO.dll
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DTO.dll
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DAO.pdb
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DTO.pdb
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.dll
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.pdb
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\BUS.dll
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\BUS.pdb
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DAO.dll
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DTO.dll
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DAO.pdb
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DTO.pdb
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.dll
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.pdb
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\BUS.dll
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\BUS.pdb
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DAO.dll
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DTO.dll
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DAO.pdb
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DTO.pdb
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.dll
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.pdb
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\BUS.dll
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\BUS.pdb
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DAO.dll
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DTO.dll
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DAO.pdb
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DTO.pdb
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.dll
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.pdb
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\BUS.dll
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\BUS.pdb
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DAO.dll
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DTO.dll
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DAO.pdb
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DTO.pdb
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.dll
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.pdb
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\BUS.dll
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\BUS.pdb
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DAO.dll
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DTO.dll
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DAO.pdb
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DTO.pdb
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.dll
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.pdb
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\BUS.dll
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\BUS.pdb
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DAO.dll
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DTO.dll
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DAO.pdb
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DTO.pdb
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.dll
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.pdb
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\BUS.dll
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\BUS.pdb
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DAO.dll
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DTO.dll
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DAO.pdb
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DTO.pdb
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.dll
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.pdb
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\BUS.dll
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\BUS.pdb
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DAO.dll
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DTO.dll
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DAO.pdb
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DTO.pdb
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.dll
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.pdb
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\BUS.dll
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\BUS.pdb
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DAO.dll
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DTO.dll
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DAO.pdb
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\bin\Debug\DTO.pdb
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.dll
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\BUS\obj\Debug\BUS.pdb

@@ -1,0 +1,60 @@
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\DTO\bin\Debug\DTO.dll
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\DTO\bin\Debug\DTO.pdb
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.dll
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.pdb
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\DTO\bin\Debug\DTO.dll
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\DTO\bin\Debug\DTO.pdb
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.dll
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.pdb
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\bin\Debug\DTO.dll
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\bin\Debug\DTO.pdb
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.dll
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.pdb
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\bin\Debug\DTO.dll
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\bin\Debug\DTO.pdb
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.dll
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.pdb
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\bin\Debug\DTO.dll
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\bin\Debug\DTO.pdb
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.dll
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.pdb
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\bin\Debug\DTO.dll
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\bin\Debug\DTO.pdb
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.dll
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.pdb
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\bin\Debug\DTO.dll
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\bin\Debug\DTO.pdb
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.dll
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.pdb
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\bin\Debug\DTO.dll
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\bin\Debug\DTO.pdb
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.dll
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.pdb
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\bin\Debug\DTO.dll
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\bin\Debug\DTO.pdb
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.dll
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.pdb
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\bin\Debug\DTO.dll
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\bin\Debug\DTO.pdb
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.dll
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\DTO\obj\Debug\DTO.pdb
