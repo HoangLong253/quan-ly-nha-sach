@@ -1,0 +1,284 @@
+C:\Users\Long\OneDrive\Desktop\ưinform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Long\OneDrive\Desktop\ưinform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Long\OneDrive\Desktop\ưinform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Long\OneDrive\Desktop\ưinform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Long\OneDrive\Desktop\ưinform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Long\OneDrive\Desktop\ưinform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLLSP.resources
+C:\Users\Long\OneDrive\Desktop\ưinform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLSP.resources
+C:\Users\Long\OneDrive\Desktop\ưinform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLTK.resources
+C:\Users\Long\OneDrive\Desktop\ưinform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Long\OneDrive\Desktop\ưinform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Long\OneDrive\Desktop\ưinform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Long\OneDrive\Desktop\ưinform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Long\OneDrive\Desktop\ưinform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmHDB.resources
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmHDN.resources
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLLSP.resources
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLSP.resources
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLTK.resources
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BUS.dll
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DTO.dll
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.dll
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BUS.pdb
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DTO.pdb
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.pdb
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBH.resources
+C:\Users\tulel\Desktop\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBH.resources
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmHDB.resources
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmHDN.resources
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLLSP.resources
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLSP.resources
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLTK.resources
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BUS.dll
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DTO.dll
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.dll
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BUS.pdb
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DTO.pdb
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.pdb
+D:\HK4\DO AN LTWIN\doan tt\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BUS.dll
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DTO.dll
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.dll
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BUS.pdb
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DTO.pdb
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.pdb
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBH.resources
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmHDB.resources
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmHDN.resources
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLLSP.resources
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLSP.resources
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLTK.resources
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\tulel\Desktop\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BUS.dll
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DTO.dll
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.dll
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BUS.pdb
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DTO.pdb
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.pdb
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBH.resources
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmHDB.resources
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmHDN.resources
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLLSP.resources
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLSP.resources
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLTK.resources
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\HK4\DO AN LTWIN\doan tt\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BUS.dll
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DTO.dll
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.dll
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BUS.pdb
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DTO.pdb
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.pdb
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBH.resources
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDangNhap.resources
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmHDB.resources
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmHDN.resources
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLLSP.resources
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLSP.resources
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLTK.resources
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTrangchu.resources
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\tulel\Desktop\doan\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BUS.dll
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DTO.dll
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.dll
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BUS.pdb
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DTO.pdb
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.pdb
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBH.resources
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDangNhap.resources
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmHDB.resources
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmHDN.resources
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLLSP.resources
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLSP.resources
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLTK.resources
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTrangchu.resources
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\HK4\DO AN LTWIN\doan tt\da276\da276\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BUS.dll
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DTO.dll
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.dll
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BUS.pdb
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DTO.pdb
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.pdb
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBH.resources
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDangNhap.resources
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmHDB.resources
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmHDN.resources
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLLSP.resources
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLSP.resources
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLTK.resources
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTrangchu.resources
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\tulel\Desktop\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBH.resources
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDangNhap.resources
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmHDB.resources
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmHDN.resources
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLLSP.resources
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLSP.resources
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLTK.resources
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTrangchu.resources
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BUS.dll
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DTO.dll
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.dll
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BUS.pdb
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DTO.pdb
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.pdb
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\HK4\DO AN LTWIN\doan tt\da47\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BUS.dll
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DTO.dll
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.dll
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BUS.pdb
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DTO.pdb
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.pdb
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBH.resources
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDangNhap.resources
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmHDB.resources
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmHDN.resources
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLLSP.resources
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLSP.resources
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLTK.resources
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTrangchu.resources
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\HK4\DO AN LTWIN\doan tt\da57\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BUS.dll
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DTO.dll
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.dll
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BUS.pdb
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DTO.pdb
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.pdb
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBH.resources
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDangNhap.resources
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmHDB.resources
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmHDN.resources
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLLSP.resources
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLSP.resources
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLTK.resources
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTrangchu.resources
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTop10.resources
+D:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDoanhThu.resources
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BUS.dll
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DTO.dll
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.dll
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BUS.pdb
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DTO.pdb
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.pdb
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBH.resources
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDangNhap.resources
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmHDB.resources
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmHDN.resources
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLLSP.resources
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLSP.resources
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQLTK.resources
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDoanhThu.resources
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTop10.resources
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTrangchu.resources
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\HK4\DO AN LTWIN\doan tt\da67\doan ltwin\doan13-6\doan\winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
